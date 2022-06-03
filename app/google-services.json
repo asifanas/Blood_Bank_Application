@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "990947900430",
+    "project_id": "bloodbank-fc4f9",
+    "storage_bucket": "bloodbank-fc4f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990947900430:android:90e6807acf6eae80bb105f",
+        "android_client_info": {
+          "package_name": "opensource.celento.bloodbank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990947900430-bnpbvq8sc4ipjugjevo1udm16bdfabig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCemFjfGP_gdLKZlxFtAHxJaWryd1WiKHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990947900430-bnpbvq8sc4ipjugjevo1udm16bdfabig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
